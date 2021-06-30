@@ -18,7 +18,11 @@
     "url": "https://github.com/KwamsC/kwams-blog-site/issues"
   },
   "homepage": "https://github.com/KwamsC/kwams-blog-site#readme",
+  "dependencies": {
+    "debug": "4.3.1"
+  },
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1"
+    "@11ty/eleventy": "^0.12.1",
+    "debug": "4.3.1"
   }
 }
